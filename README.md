@@ -12,4 +12,4 @@ This work is important to help us keep control, encourage the hacker culture and
 This work has no warranty and is licensed to the public domain.
 
 # Contact
-- Send me email: Dan Morris (pr1v7bot AT gmail DOT com)
+- Mail me at:pr1v7bot<AT>gmail<DOT>com
