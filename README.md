@@ -3,13 +3,26 @@
 ## Hacking-BR - Request For Comments
 
 # Introduction
-We work in a simple and useful way to promote the success of the "Hacking-BR - Grupo de estudos". And that success depends on some efforts that we can not forget, being said the "Hacker culture" and "freedom movement".
+We are working in a simple and useful way to promote the success of "Hacking-BR - Grupo de estudos", our success depends on some efforts that we cannot forget, being said the "hacker culture" and "freedom movement".
 
-# The importance of RFC documents
-This work is important to help us keep control, encourage the hacker culture and cyberpunk movement.
+# The importance of the RFC documents
+This work is very important to:
+- Help us to keep control of everything beyond our project.
+- Encourage the Hacker Culture (old-style/old-fashioned programmers).
+- Encourage the Cyberpunk movement in the Cyberspace.
+- Encourage the Free-Software Movement (FSM).
 
 # Public domain
-This work has no warranty and is licensed to the public domain.
+This project has ABSOLUTELY NO WARRANTY and is licensed to the PUBLIC DOMAIN.
 
 # Contact
-For contact information, you can send me a mail to me at: pr1v7bot AT gmail DOT com
+You can send an email to this address: <pr1v7bot@gmail.com>.
+
+
+# To Do
+- [ ] Update this file (README.md).
+- [ ] Add more information about the project.
+- [ ] Specify the goals of these documents.
+
+# WIP
+This project is a *Work-In-Progress*, everything here will be updated soon ...
